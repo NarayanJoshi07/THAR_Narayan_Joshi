@@ -1,1 +1,1 @@
-# THAR_Narayan_Joshi
+# College Fest Management System
